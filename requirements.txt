@@ -1,0 +1,17 @@
+# Towers of Segments v0.1 requirements
+# Python 3.10+ recommended
+
+# For the AC codec and probability model
+torch>=2.1.0
+transformers>=4.40.0
+accelerate>=0.30.0
+
+# For llama-server orchestration
+requests>=2.31.0
+
+# Standard scientific stack (for benchmark plots)
+numpy>=1.24.0
+matplotlib>=3.8.0
+
+# For pretty CLI output
+rich>=13.0.0

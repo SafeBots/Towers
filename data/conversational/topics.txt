@@ -1,0 +1,203 @@
+debug Python memory leaks in a FastAPI service
+optimize a slow Postgres query that does a full table scan
+explain how decorators with arguments work in Python
+freeze fresh basil for the winter without it going black
+compare TCP and UDP for a real-time game backend
+explain how Postgres B-tree indexes work
+write a haiku about morning coffee
+explain Rust ownership coming from Python
+debug a Rust async deadlock
+make pesto without a food processor
+explain Kubernetes pods vs deployments
+write a vegetarian version of a chili recipe
+explain Bayes' theorem with a medical-test example
+fix a Docker build that's slow
+explain DNS resolution end to end
+write a sonnet about the seasons
+debug a memory leak in a Node.js server
+explain how SSL certificates work
+make sourdough bread without a starter
+explain Big O notation with concrete examples
+debug a slow Redis query
+explain how Git rebase differs from merge
+write a recipe for one-pot pasta with vegetables
+explain quantum entanglement to a high schooler
+fix a slow CSS animation
+explain the difference between TLS 1.2 and 1.3
+write a poem about urban gardening
+debug a TypeScript compilation error
+explain how a JIT compiler works
+make a kombucha continuous-brew setup
+explain Fourier transforms with audio examples
+fix a slow React component re-rendering
+explain monads with a Maybe example
+write a flash fiction story under 200 words
+debug a Kubernetes pod that won't start
+explain Postgres MVCC
+make a stir fry with whatever vegetables are in the fridge
+explain how merkle trees work
+fix a slow MongoDB aggregation pipeline
+explain CSP and how to set the right headers
+write a recipe for chicken thighs three ways
+explain the halting problem informally
+debug a Python multiprocessing deadlock
+explain how garbage collection works in different languages
+write a haiku sequence about a thunderstorm
+fix a memory issue in a Java application
+explain async/await in JavaScript vs Rust vs Python
+make granola without refined sugar
+explain how OAuth 2.0 authorization code flow works
+debug a CORS issue in a web app
+write a short essay about why slow cooking matters
+explain CPU branch prediction
+fix a slow Rails migration
+explain the CAP theorem with concrete examples
+make a Vietnamese-style sandwich from leftover roast pork
+explain how a transformer attention layer works
+debug a SQL deadlock
+write a recipe for chocolate chip cookies that stays chewy
+explain how a generic vacuum cleaner works
+fix a slow Spring Boot startup
+explain Conway's Law in software architecture
+write a short story about a librarian
+explain Bloom filters with use cases
+debug a Helm chart that won't apply
+make ricotta cheese from milk and lemon juice
+explain mutual TLS and when you need it
+fix a Webpack bundle that's too large
+explain Erlang's actor model
+write a recipe for pasta carbonara done right
+explain how rate limiting works at scale
+debug a Tailwind CSS purge issue
+explain what a discrete Fourier transform is good for
+make croutons from stale bread
+explain how a USB drive's storage controller works
+fix a Vue 3 reactivity bug
+explain Hash array mapped tries
+write a recipe for spinach lasagna
+explain how DKIM email authentication works
+debug a Go goroutine leak
+explain SOLID principles with examples
+make pickled red onions
+explain how a SAT solver works
+fix a slow GraphQL query
+explain Continuation-passing style
+write a recipe for braised short ribs
+explain Kafka log compaction
+debug a slow Elasticsearch query
+explain the operational difference between containerd and Docker
+make falafel from canned chickpeas
+explain CRDTs and where they're useful
+fix a Django N+1 query problem
+explain how prepared statements protect against SQL injection
+write a recipe for risotto without stirring constantly
+explain how OS schedulers handle threads
+debug a slow Hugging Face Transformers inference
+explain how UUIDs are generated
+make a vinaigrette that doesn't separate
+explain how SSH key authentication works
+fix a slow Python pickle load
+explain regular expressions advanced features
+write a recipe for kimchi
+explain how a CDN routes requests
+debug a TypeScript narrowing issue
+explain how WebSockets differ from long polling
+make a chocolate ganache for cake filling
+explain process vs thread vs goroutine
+fix a slow Pandas groupby
+explain how protobuf differs from JSON
+write a recipe for cured salmon (gravlax)
+explain how OAuth scopes work
+debug a slow Go program with pprof
+explain the actor model with Erlang examples
+make a basic curry paste from scratch
+explain consistent hashing
+fix a memory leak in a Python service
+explain how content-addressable storage works
+write a recipe for honey-mustard glazed pork
+explain why floating-point arithmetic is weird
+debug a slow PostgreSQL replication lag
+explain CRDTs vs OT for collaborative editing
+make a quick pickle for sandwiches
+explain Raft consensus
+fix a slow Apache Spark job
+explain the difference between async and parallel
+write a recipe for tonkotsu ramen broth
+explain virtual memory and page tables
+debug a slow Webpack build
+explain how Bitcoin mining works at a high level
+make labneh from yogurt
+explain CSP nonces vs hashes
+fix a slow Hibernate query
+explain how Cassandra distributes data
+write a recipe for kimchi pancakes
+explain how PEX and ZipApp differ
+debug a slow gRPC service
+explain Postel's law and its costs
+make ice cream without an ice cream maker
+explain how a SAT solver finds satisfying assignments
+fix a memory leak in Electron
+explain CSP and CORS together
+write a recipe for shakshuka
+explain how generative adversarial networks train
+debug a slow Cassandra query
+explain how Linux cgroups work
+make hummus that's actually creamy
+explain the difference between OAuth and SAML
+fix a slow tsx server-side render
+explain context propagation in distributed tracing
+write a recipe for sourdough starter from scratch
+explain Bayesian vs frequentist statistics
+debug a slow Hadoop job
+explain how page caching speeds up databases
+make almond milk at home
+explain how LDAP directory queries work
+fix a slow gRPC stream
+explain consistent hashing rings
+write a recipe for vegetarian dumplings
+explain how typeclasses in Haskell work
+debug a slow Node.js event loop
+explain how merkle DAGs power IPFS
+make ghee from butter
+explain semaphores vs mutexes vs channels
+fix a slow Python startup with imports
+explain how WireGuard tunnels work
+write a recipe for slow-cooked pulled pork
+explain how PromQL queries time-series data
+debug a slow Postgres VACUUM
+explain how RAID levels differ
+make hot sauce from fermented chilis
+explain how zk-SNARKs prove statements
+fix a slow Express middleware chain
+explain how operating systems schedule interrupts
+write a recipe for chicken tikka masala
+explain how transactional memory works
+debug a slow Kubernetes ingress
+explain how trie data structures save memory
+make compound butter for steak
+explain when to use Redis vs Memcached
+fix a slow Rails view render
+explain how compilers do dead-code elimination
+write a recipe for buttery scrambled eggs
+explain MVCC concurrency in databases
+debug a slow Rust async program
+explain how WebAssembly modules load
+make a quick stock from chicken bones
+explain how DNS over HTTPS works
+fix a slow Lighthouse score
+explain async iterators in JavaScript
+write a recipe for biryani
+explain how the Linux page cache evicts
+debug a slow Postgres index scan
+explain Kalman filters in plain English
+make ginger beer at home
+explain how SSH agent forwarding works
+fix a slow Webpack code-split
+explain the JVM's garbage collector tuning
+write a recipe for vegetable stock
+explain how a hash table handles collisions
+debug a slow Tailwind purge step
+explain how CSP nonces are generated
+make Greek yogurt from regular yogurt
+explain how memory-mapped files work
+fix a slow Node.js cold start
